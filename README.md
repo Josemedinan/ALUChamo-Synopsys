@@ -6,6 +6,7 @@
 
 Proyecto de ingeniería digital que documenta el desarrollo de una unidad aritmético-lógica desde su descripción RTL hasta las etapas de síntesis e implementación física.
 
+https://youtu.be/s-iQtVW1CrM
 ---
 
 ## 1. Descripción del proyecto
