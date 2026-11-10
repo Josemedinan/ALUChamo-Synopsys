@@ -1,0 +1,22 @@
+# Archivos tecnológicos y de Synopsys
+*.ndm
+*.db
+*.lef
+*.lib
+*.tluplus
+*.tf
+*.spef
+*.sdf
+*.gds
+*.gdsii
+*.oas
+
+# Reportes y archivos temporales
+*.log
+*.rpt
+*.tar.gz
+*.zip
+
+# Archivos locales
+.DS_Store
+__pycache__/
